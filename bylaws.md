@@ -1,116 +1,85 @@
    * [BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY](#bylaws-of-the-epsilon-iota-chapter-of-the-psi-upsilon-fraternity)
-      * [Officers at Time of Ratification](#officers-at-time-of-ratification)
       * [Article I: The Bylaws](#article-i-the-bylaws)
          * [Section 1: Definition](#section-1-definition)
          * [Section 2: Adoption](#section-2-adoption)
          * [Section 3: Enactment](#section-3-enactment)
-         * [Section 4: Amendments](#section-4-amendments)
+         * [Section 4: Modification](#section-4-modification)
       * [Article II: Voting](#article-ii-voting)
-         * [Section 1: Franchisement](#section-1-franchisement)
-         * [Section 2: Rules](#section-2-rules)
-         * [Section 3: Vote classes](#section-3-vote-classes)
-      * [Article III: Meetings](#article-iii-meetings)
-         * [Section 1: General](#section-1-general)
-         * [Section 2: Attendance](#section-2-attendance)
-      * [Article IV: Membership](#article-iv-membership)
+         * [Section 1: Voting power](#section-1-voting-power)
+         * [Section 2: Vote Classes and Modifiers](#section-2-vote-classes-and-modifiers)
+         * [Section 3: Voting on Motions](#section-3-voting-on-motions)
+         * [Section 4: Voting in Elections](#section-4-voting-in-elections)
+      * [Article III: Membership](#article-iii-membership)
          * [Section 1: Organization](#section-1-organization)
          * [Section 2: Pledge Membership](#section-2-pledge-membership)
          * [Section 3: Active Membership](#section-3-active-membership)
-         * [Section 4: Deactive Membership](#section-4-deactive-membership)
+         * [Section 4: Excused Membership](#section-4-excused-membership)
          * [Section 5: Inactive Membership](#section-5-inactive-membership)
-         * [Section 6: Alumni Membership](#section-6-alumni-membership)
-         * [Section 7: Honorary Membership](#section-7-honorary-membership)
-         * [Section 8: Excused Membership](#section-8-excused-membership)
-      * [Article V: Officers, Elections, Duties, and Powers](#article-v-officers-elections-duties-and-powers)
-         * [Section 1: List of House Offices](#section-1-list-of-house-offices)
-            * [Subsection A: List](#subsection-a-list)
-            * [Subsection B: Categorization and Caveats](#subsection-b-categorization-and-caveats)
-         * [Section 2: Elections and Appointments](#section-2-elections-and-appointments)
-            * [Subsection A: General](#subsection-a-general)
-            * [Subsection B: Appointed Positions](#subsection-b-appointed-positions)
-            * [Subsection C: Judicial Board](#subsection-c-judicial-board)
-         * [Section 3: Impeachment](#section-3-impeachment)
-         * [Section 4: Implicit Responsibility](#section-4-implicit-responsibility)
-         * [Section 5: Powers and Duties](#section-5-powers-and-duties)
-            * [Archon](#archon)
-            * [Vice-President of Internal Affairs](#vice-president-of-internal-affairs)
-            * [Vice-President of External Affairs](#vice-president-of-external-affairs)
-            * [Treasurer](#treasurer)
-            * [House Manager](#house-manager)
-            * [Secretary](#secretary)
-            * [Rush Chairman](#rush-chairman)
-            * [Social Chairman](#social-chairman)
-            * [Steward](#steward)
-            * [Scholarship Chairman](#scholarship-chairman)
-            * [Philanthropy Chairman](#philanthropy-chairman)
-            * [Librarian/Historian](#librarianhistorian)
-            * [Alumni/Co-op Secretary](#alumnico-op-secretary)
-            * [Fraternity Educator](#fraternity-educator)
-            * [Risk Manager](#risk-manager)
-            * [Summer House Manager](#summer-house-manager)
-            * [Summer Treasurer](#summer-treasurer)
-            * [Lodge Critic](#lodge-critic)
-            * [Songleader](#songleader)
-            * [Network Administrator](#network-administrator)
-      * [Article VI: Committees](#article-vi-committees)
-         * [Section 1: Executive Committee](#section-1-executive-committee)
-         * [Section 2: Judicial Committee](#section-2-judicial-committee)
-         * [Section 3: Community Relations Committee](#section-3-community-relations-committee)
-         * [Section 4: Finance Committee](#section-4-finance-committee)
-         * [Section 5: Risk Management Policy Committee](#section-5-risk-management-policy-committee)
-         * [Section 6: House Committee](#section-6-house-committee)
-         * [Section 7: Pledge Education Committee](#section-7-pledge-education-committee)
-         * [Section 8: External Affairs Committee](#section-8-external-affairs-committee)
-         * [Section 9 Ad-hoc Committees](#section-9-ad-hoc-committees)
-      * [Article VII: Finances](#article-vii-finances)
-         * [Section 1: Room and Board](#section-1-room-and-board)
-         * [Section 2: Fiscal Year](#section-2-fiscal-year)
-         * [Section 3: Undergraduate Debt.](#section-3-undergraduate-debt)
-         * [Section 4: Alumni Debt](#section-4-alumni-debt)
-         * [Section 5: Social Dues](#section-5-social-dues)
-         * [Section 6: Fines](#section-6-fines)
-         * [Section 8: Credits](#section-8-credits)
-         * [Section 9: Excess Moneys](#section-9-excess-moneys)
-         * [Section 10: Checks drawn against the Chapter Treasury](#section-10-checks-drawn-against-the-chapter-treasury)
-         * [Section 11: Social Chair 3-3 Exception](#section-11-social-chair-3-3-exception)
-         * [Section 12: Judicial Board Appeals](#section-12-judicial-board-appeals)
-      * [Article VIII: Suspension and Expulsion](#article-viii-suspension-and-expulsion)
-      * [Article IX: Housing](#article-ix-housing)
-         * [Section 1: Rules](#section-1-rules)
+         * [Section 6: Deactive Membership](#section-6-deactive-membership)
+         * [Section 7: Alumni Membership](#section-7-alumni-membership)
+         * [Section 8: Honorary Membership](#section-8-honorary-membership)
+      * [Article IV: Officers](#article-iv-officers)
+         * [Section 1: List of positions](#section-1-list-of-positions)
+         * [Section 2: Gaining and losing a position](#section-2-gaining-and-losing-a-position)
+         * [Section 3: Powers and Responsibilities](#section-3-powers-and-responsibilities)
+      * [Article V: Committees and Meetings](#article-v-committees-and-meetings)
+         * [Section 1: Conventions](#section-1-conventions)
+         * [Section 2: Chapter Meeting](#section-2-chapter-meeting)
+         * [Section 3: Executive Board](#section-3-executive-board)
+         * [Section 4: Judicial Board](#section-4-judicial-board)
+         * [Section 5: Finance](#section-5-finance)
+         * [Section 6: External Relations](#section-6-external-relations)
+         * [Section 7: Member Wellness](#section-7-member-wellness)
+         * [Section 8: Chapter Safety](#section-8-chapter-safety)
+         * [Section 9: Ad-hoc Committees](#section-9-ad-hoc-committees)
+      * [Article VI: Finance](#article-vi-finance)
+         * [Section 1: Budgets](#section-1-budgets)
+         * [Section 2: Fiscal Year and Schedule](#section-2-fiscal-year-and-schedule)
+         * [Section 3: Rent](#section-3-rent)
+         * [Section 4: Undergraduate Debt](#section-4-undergraduate-debt)
+         * [Section 5: Alumni Debt](#section-5-alumni-debt)
+         * [Section 6: Deficits and Surpluses](#section-6-deficits-and-surpluses)
+         * [Section 7: Checks](#section-7-checks)
+         * [Section 8: Appeals](#section-8-appeals)
+      * [Article VII: Housing](#article-vii-housing)
+         * [Section 1: Qualifications and Requirements](#section-1-qualifications-and-requirements)
          * [Section 2: Required live-ins](#section-2-required-live-ins)
          * [Section 3: Room selection](#section-3-room-selection)
-      * [Article X: Alcohol Policy](#article-x-alcohol-policy)
-         * [Section 1: References](#section-1-references)
-      * [Article XI: Risk Management Program](#article-xi-risk-management-program)
-         * [Section 1: Statement](#section-1-statement)
-         * [Section 2: Risk Manager](#section-2-risk-manager)
-         * [Section 3: Alcohol Containment](#section-3-alcohol-containment)
-         * [Section 4: Sober Brother Selection](#section-4-sober-brother-selection)
-         * [Section 5: Sober Brother Responsibilities](#section-5-sober-brother-responsibilities)
-         * [Section 6: Responsibilities in the event of prevention failure](#section-6-responsibilities-in-the-event-of-prevention-failure)
-      * [Article XII: Psi Upsilon Scholarship Policy](#article-xii-psi-upsilon-scholarship-policy)
-         * [Section 1: Statement](#section-1-statement-1)
-         * [Section 2: Scholarship Chair](#section-2-scholarship-chair)
-         * [Section 3: GPA Requirements](#section-3-gpa-requirements)
-         * [Section 4: Academic standing](#section-4-academic-standing)
-         * [Section 5: Disciplinary Action](#section-5-disciplinary-action)
-         * [Section 6: Rights of Brothers](#section-6-rights-of-brothers)
-         * [Section 7: Miscellaneous](#section-7-miscellaneous)
-      * [Article XIII: Epsilon Iota Member Involvement Policy](#article-xiii-epsilon-iota-member-involvement-policy)
-         * [Section 1: Statement](#section-1-statement-2)
-         * [Section 2: Required Events](#section-2-required-events)
-         * [Section 3: Optional Events](#section-3-optional-events)
-         * [Section 4: Valid Excuses](#section-4-valid-excuses)
-         * [Section 5: Allotted Absences](#section-5-allotted-absences)
-         * [Section 6: Enforcement](#section-6-enforcement)
+      * [Article VIII: Risk Management](#article-viii-risk-management)
+         * [Section 1: Adherence to Other Policies](#section-1-adherence-to-other-policies)
+         * [Section 2: Alcohol Containment](#section-2-alcohol-containment)
+         * [Section 3: Sober Brother Selection](#section-3-sober-brother-selection)
+         * [Section 4: Sober Brother Responsibilities](#section-4-sober-brother-responsibilities)
+         * [Section 5: In the event of prevention failure](#section-5-in-the-event-of-prevention-failure)
+      * [Article IX: Scholarship Policy](#article-ix-scholarship-policy)
+         * [Section 1: Requested Information](#section-1-requested-information)
+         * [Section 2: Standing](#section-2-standing)
+         * [Section 3: Scholarship Plans](#section-3-scholarship-plans)
+         * [Section 4: GPA Requirements](#section-4-gpa-requirements)
+         * [Section 5: Rights of Brothers](#section-5-rights-of-brothers)
+      * [Article X: Attendance Policy](#article-x-attendance-policy)
+         * [Section 1: Required Events](#section-1-required-events)
+         * [Section 2: Optional Events](#section-2-optional-events)
+         * [Section 3: Valid Excuses](#section-3-valid-excuses)
+         * [Section 4: Allotted Absences](#section-4-allotted-absences)
+         * [Section 5: Enforcement](#section-5-enforcement)
       * [Appendix 1: Vote class totals](#appendix-1-vote-class-totals)
 
 # BYLAWS OF THE EPSILON IOTA CHAPTER OF THE PSI UPSILON FRATERNITY
 
-December 16, 2018
+## Article I: The Bylaws
 
-### Officers at Time of Ratification
+### Section 1: Definition
 
+1. The following shall be known as the bylaws of the Epsilon Iota chapter of the Psi Upsilon Fraternity.
+2. A week shall refer to a calendar week during which a chapter meeting was held.
+
+### Section 2: Adoption
+
+1. This section is meant to serve as a living record of authors so that if required they can be contacted to make clarifications.
+2. These bylaws adopted XXX. XX, 20XX shall replace all previous bylaws and amendments of the Chapter.
+3. These bylaws have not yet been amended.
+4. Presiding officers of the most recent alterations were
 - Archon: Ian Holland
 - Vice President of Internal Affairs: Sasha Hunter
 - Vice President of External Affairs: Tejas Narayan
@@ -118,71 +87,64 @@ December 16, 2018
 - House Manager: Brian McGrath
 - Secretary: Andrew Smith
 
-## Article I: The Bylaws
-
-### Section 1: Definition
-
-1. The following shall be known as the bylaws of the Psi Upsilon Fraternity, Epsilon Iota Chapter.
-
-### Section 2: Adoption
-
-1. These bylaws adopted 14 April, 2013 shall replace all previous bylaws and amendments of the Chapter.
-
 ### Section 3: Enactment
 
-1. Ratification of the bylaws shall be by a Class C vote.  Bylaws may be changed by amendment or by bylaw convention.
-2. In case of dispute, the J-Board shall interpret the bylaws.
-3. A willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Executive Committee.
-4. All Chapter policies that are not amendments are only valid until the end of the academic year.
-5. A bylaw may be suspended by a Class C vote, for a time period (specified in the motion) no greater than one (1) year.
+1. In the event of dispute, the judicial board shall interpret the bylaws.
+2. Willful disobedience of these bylaws is grounds for fine or disciplinary action at the discretion of the Judicial Board.
+3. All policy enacted by the chapter but not incorporated by these bylaws can be valid for no longer than one academic year.
+4. Any portion of the bylaws may be suspended by a Class C vote, for a time period specified in the motion no greater than one (1) year.
 
-### Section 4: Amendments
+### Section 4: Modification
 
-1. All motions of amendment must be in writing and seconded by two active members.
-2. After the motion is made at a Chapter meeting, one (1) week shall pass before voting on the motion.
-3. The motion must be ratified by a Class C vote.
+1. Errors in spelling, grammar, and the internal consistency of the bylaws can be changed without motion or vote, but only after the house is notified in a chapter meeting.
+2. The policies of these bylaws can only be altered by amendment or bylaws conversion.
+3. Amendments must be proposed in writing and seconded by two active members.
+4. Amendments can be voted on no sooner than one (1) week after its proposal.
+5. Amendments must be ratified by a Class C vote.
+6. Bylaws conversions must be submitted in writing and seconded by 4 active brothers.
+7. Bylaws conversions can be voted on no sooner than two (2) weeks after its proposal. 
+8. Bylaws conversions must be ratified by a class C & D vote.
 
 ## Article II: Voting
 
-### Section 1: Franchisement
+### Section 1: Voting Power
 
-1. Only active brothers are allowed to vote
+1. All active brothers by default have one vote or one point of voting power.
+2. The total voting power of the house is the sum of the voting power of all voting members.
 
-### Section 2: Rules
+### Section 2: Vote Classes and Modifiers
 
-1. All fractions are rounded up. All vote classes except D measure Yes votes.
-2. An absent brother abstains, unless they submit a proxy vote to the Archon prior to the vote.
+1. Class A - At least half of all possible voting power.
+2. Class B - At least two-thirds of all possible voting power.
+3. Class C - At least ninety percent of all possible voting power.
+4. Class D - No more than five-percent of all voting power in the negative.
+5. Class E - Majority of the Executive board members' voting power.
+6. Class J – Majority of Judicial Board members' voting power.
+7. Class XJ – Judicial board members have no voting power.
 
-### Section 3: Vote classes
+### Section 3: Voting on Motions
 
-1. Class A - Majority of the active brotherhood.
-2. Class B - Two-thirds of the active brotherhood.
-3. Class C - Nine-tenths of the active brotherhood.
-4. Class D - No more than five-percent negative votes of the active brotherhood.
-5. Class E - Majority of the E-board (at least 4 out of 6 vote yes).
-6. Class J – Majority of J-Board (at least 3 out of 5 vote yes).
-7. Class XJ – Two-Thirds majority of non-J-Board members.
+1. The vote class for any motion not specified elsewhere in these bylaws will be at the discretion of the Archon who is advised to consult Robert's Rules. The Archon can be made to change the class of a motion by a Class B vote. If this occurs several times, each new vote class must be unique.
+2. All voting members can vote in the affirmative, the negative, or abstain from voting.
+3. Fractional votes, should they exist, do not round or truncate.
+4. The archon may vote on any motion at any time prior to the announcement of the results.
+5. If a voting member cannot be present to vote on a motion, they may tell their vote to the ARchon or divide their voting power among any number of other brothers.
+6. Anyone not present for a vote who has failed to do either of the above is assumed to have abstained.
+7. The voting power of all abstaining absentee voters can be set to zero for the ongoing chapter meeting by a vote of at least two thirds majority of present voting power. In the event that the motion is integral to the survival of the chapter or otherwise time-sensitive, this can be done at the discretion of the Archon.
 
-## Article III: Meetings
+### Section 4: Voting in Elections
 
-### Section 1: General
+1. Elections are run using approval voting. As such, all voters may vote for any number of candidates, including all or none of them.
+2. The chair of an election may vote at any time prior to the announcement of the results of the vote. 
+3. All candidates are assumed to vote for themselves and only themselves unless they specify otherwise.
+4. If a voting member cannot be present to vote in an election, they may tell their vote to the archon in advance or divide their voting power among any number of other brothers.
+5. Anyone not present for a vote who has failed to do either is assumed to vote for all candidates. 
+6. Fractional votes, should they exist, do not round or truncate.
+7. The candidate who receives at least half of all possible voting power, more votes than all other candidates, and for whom the difference between them and the candidate with the second votes being at least one is the winner.
+8. If an election does not produce a winner, all candidates who received less than a majority of voting power will be removed from the election and return to the chapter meeting. A new vote will then be held after some discussion. If this vote still does not produce a winner, the tied candidates will each be given a few more minutes to speak to the brotherhood, after which a runoff election will be held between all tied members.
+9. In a runoff election, all present voting members will cast their vote for one candidate. They cannot abstain and absent brothers have no voting power. The winner is the candidate who receives the most votes. Ties will be settled by a suitable random method, such as a coin or die. 
 
-1. Regular Chapter meetings shall be held once a week during the fall-spring school year, subject to the discretion of the Archon.
-2. Meetings shall be run according to the general format described in Robert’s Rules of Order (revised), subject to the discretion of the President.
-3. Special meetings may be called at the written request of five (5) members or at the call of the Archon.
-
-### Section 2: Attendance
-
-1. Inactive, honorary, and alumni brothers may attend any meetings, but may not vote.
-2. All non-members may be present at a Chapter meeting while it is in session.
-3. Quorum: two-thirds (2/3) of the active brotherhood must be present at a Chapter meeting to vote on any business.
-4. Attendance at Chapter meetings and rush functions is mandatory of the active brotherhood.
-5. Attendance shall be excused by a satisfactory excuse submitted to the Archon prior to the meeting.
-6. Any brother absent from a regular meeting or rush function without an excuse shall be fined fifteen (15) dollars, at the discretion of the Archon, to be collected by the Treasurer.
-7. Tardiness to regular meetings is cause for a fine of fifteen (15) dollars to be imposed at the discretion of the Archon.
-8. The Archon or a Class A vote shall grant the validity of an excuse.
-
-## Article IV: Membership
+## Article III: Membership
 
 ### Section 1: Organization
 
@@ -190,638 +152,710 @@ December 16, 2018
     1. Pledge
     2. Active
     3. Excused
-    4. De-active
-    5. Inactive
+    4. Inactive
+    5. Deactive
     6. Alumni
-    7. Honorary.
-2. Each brother will receive an “EI number,” given in alphabetical and numerical order within each pledge class at Initiation.
-3. Each non-pledge member of the EI Chapter and our Fraternity will be a “brother,” regardless of gender.
+    7. Honorary
+2. Each brother will receive an "EI number", given in alphabetical and numerical order within each pledge class upon their initiation into the chapter.
+3. All non-pledge members of the Epsilon Iota chapter will be referred to as "brother" regardless of gender.
 
 ### Section 2: Pledge Membership
 
-1. Candidates for pledge membership must be registered students of Rensselaer Polytechnic Institute (RPI).
-2. Candidates must not be members of any other college social fraternal organizations.
-3. The name of any candidates for pledging may be brought before the Chapter any number of times, but only once at each Chapter meeting.
-4. For a candidate to receive a bid, the proposal must pass a Class B & D vote.
-5. A depledged member may repledge upon approval by a Class B & D vote.
+1. Qualifications
+    1. Must be a registered student of Rensselaer Polytechnic Institute.
+    2. Must not be a member of another fraternal organization.
+    3. Must have been granted a bid by the chapter. Bids are granted by a class B & D vote.
+2. Responsibilities
+    1. Shall attend as many pledge education meeting as is possible.
+    2. Shall attend as many general chapter meeting as is possible.
+    3. Shall perform the duties of any office to which they are elected
+3. Changes in status
+    1. Shall be designated as Active upon the completion of the pledging process and the passage of a class C & D brother vote.
+    2. Shall lose the status of pledge if:
+        1. They decide they no longer wish to join the chapter.
+        2. Their brother vote fails. In the event the vote fails on the class D specification the pledge in question will also lose their bid require a new one should they wish to pledge again. 
 
 ### Section 3: Active Membership
 
-1. An active member has the rights of voting and house use, in addition to the corresponding responsibilities of; holding an office, required attendance of meetings and rush functions, and others expected of him by the active brotherhood.
-2. Candidates must have finished the Fraternity Education Program.
-3. Candidates must fulfill academic requirements outlined in the scholarship policy (Article XII).
-4. Member must be a student of RPI.
-5. Initiation of a pledge into the brotherhood shall be determined by a Class C & D vote during the Chapter meeting prior to pre-Initiation Week.
-6. Member must have paid his International dues and Chapter social dues.
+1. Qualifications
+    1. Must be a registered student of Rensselaer Polytechnic Institute.
+    2. Must not be a member of another fraternal organization.
+    3. Must have finished all Education programs mandated by the chapter, International and Rensselaer Polytechnic Institute.
+    4. Shall meet the GPA requirements outlined in Article IX section 4.
+2. Responsibilities
+    1. Shall adhere to Article X, the chapter’s member involvement policy.
+    2. Shall pay rent and dues in adherence to Article VI.
+    3. Shall perform the duties of any and all offices to which they are elected or appointed. 
+3. Changes in status
+    1. Shall be designated as Excused if
+        1. They are on a Co-op.
+        2. They have in good faith taken a leave of absence from Rensselaer Polytechnic Institute.
+    2. Shall be designated as Inactive by a class J vote
+    3. Shall be designated as Deactive following their expulsion from the chapter outlined in article IV section 3 subsection 1 and article V section 2.
+    4. Shall be designated as an alumnus 
+        1. Upon the termination of their studies at Rensselaer Polytechnic Institute.
+        2. By a class E vote held at the request of the brother in question.
+        3. If they choose to be following the completion of their undergraduate studies at Rensselaer Polytechnic Institute but not the termination of their studies, there.
 
-### Section 4: Deactive Membership
+### Section 4: Excused Membership
 
-1. When a member is expelled (see Article VIII), he or she falls under this category and loses all rights and privileges of the Chapter.
-2. A deactive member can petition the Judicial Committee to regain active membership into the brotherhood, who, upon approval, will bring the issue to the brotherhood, where it is then subject to a Class C & D vote.
+1. Qualifications
+    1. Must be on a Co-op or taking a leave of absence with the intent to return.
+2. Responsibilities
+    1. Has no fiscal, social or academic responsibilities to the chapter.
+3. Changes in status
+    1. Shall be designated as Active 
+        1. Upon the end of their Co-op.
+        2. By announcing their return to activity at a chapter meeting following the end of their leave of absence.
+    2. Shall be designated as an Alumni
+        1. Following a year without an indication of an effort to return to Rensselaer Polytechnic Institute.
+        2. If they return to Rensselaer Polytechnic Institute but not to activity.
 
 ### Section 5: Inactive Membership
 
-1. An inactive member has neither rights nor the responsibilities of an active member.
-2. An inactive member must be student of RPI, a member of the EI chapter.
-3. A member may become inactive by a Class J vote. Change from inactive status to active status may only be granted by a Class C vote.
+1. Qualifications
+    1. Has chosen to petition the Judicial board to go inactive
+    2. Has been forced into inactivity due to a judicial board case
+2. Responsibilities
+    1. Has no fiscal, social or academic responsibilities to the chapter.
+3. Changes in status
+    1. Shall be designated as active following a class C at the request of the inactive brother.
+    2. Shall be designated as an Alumni following
+        1. The termination of their studies at Rensselaer Polytechnic Institute
+        2. Two years without an attempt to become active.
 
-### Section 6: Alumni Membership
+### Section 6: Deactive Membership
 
-1. An Alumni member has neither rights nor the responsibilities of an active member.
-2. A member of the EI chapter who falls under the jurisdiction of the alumni council and is not an undergraduate brother is considered an alumnus.
-3. All non-pledge members shall automatically become alumni members upon termination of their studies from RPI.
-4. Undergraduate non-pledge members have the option of becoming alumni members upon termination of full time undergraduate studies at RPI.
-5. An undergraduate member may become an alumnus/alumna by petitioning the executive council. The executive committee may grant the petition by a Class E vote.
-6. An Alumni member who studies at RPI may return to the status they held upon their initial termination of studies or becoming an alumnus/alumna. An alumni member must simply announce their intentions to return to the status they previous held during a Chapter meeting, and thereby are restored to said status.
+1. Qualifications
+    1. Has been accused of or found to have committed a felony.
+    2. Has been accused of or found to have performed acts that threaten the existence of the chapter
+2. Responsibilities
+    1. Deactive members are no longer associated with the Epsilon Iota chapter or Psi Upsilon International.
+3. Changes in status
+    1. Shall be designated as active if the judicial board finds their deactivation to have been without cause. 
+    2. Shall be designated as inactive if, having been found innocent of the action that incited their deactivation, the Judicial Board receives and approves their petition to return.
 
-### Section 7: Honorary Membership
+### Section 7: Alumni Membership
 
-1. At the brotherhood’s approval, anyone may become an honorary brother.
-2. Proposal and vote for honorary membership shall follow the same procedure as that for giving out a bid (See Article IV, Section 2, 3-4)
-3. Honorary Brother proposals are voted on and executed in the same manner as pledge initiation (See Article IV, Section 3, 5).
-4. Honorary Members are not required to pay dues.
+1. Qualifications
+    1. Must adhere to any and all qualification mandated by the alumni association of the Epsilon Iota chapter of Psi Upsilon.
+2. Responsibilities
+    1. Shall adhere to any and all requirements detailed by the alumni association of the Epsilon Iota Chapter of Psi Upsilon.
+    2. Shall still be responsible for the repayment of any debt accrued during their time as an active brother.
+3. Changes in status
+    1. Shall return to their previously form of membership should they return to study at Rensselaer Polytechnic Institute and announce their change of status at a chapter meeting.
 
-### Section 8: Excused Membership
+### Section 8: Honorary Membership
 
-1. An excused member is a member in good faith who has opted to become excused and therefore has no responsibilities and limited rights of an active member.
-2. Members who participate in the RPI co-op program, or who take a temporary leave from RPI, are considered excused.
-3. Excused members may not vote or hold office. However, excused members may run in elections when the term they take office is after they return to RPI.
-4. To return to active status, an excused member must simply announce their intentions to return to active membership during a Chapter meeting, and thereby are restored to active status.
+1. Qualifications
+    1. Must not be a member of a fraternal organization.
+    2. Must have been given an honorary bid following a class B & D vote. 
+    3. Must have passed a class C & D brother vote.
+2. Responsibilities
+    1. Shall attend as many chapter meeting as is reasonable.
+3. Changes in status
+    1. May be stripped of their honorary status should be accused or found to perform some act that would for an active brother warrant deactivation.
 
-## Article V: Officers, Elections, Duties, and Powers
+## Article IV: Officers
 
-### Section 1: List of House Offices
-
-#### Subsection A: List
-
-1. Executive Committee
+### Section 1: List of positions
+1. Major Officers
     1. Archon
     2. Vice President of Internal Affairs
     3. Vice President of External Affairs
     4. Treasurer
     5. House Manager
     6. Secretary
-2. Major House Offices
-    1. Rush Chairman
-    2. Social Chairman
-    3. Steward
-3. Minor House Offices
-    1. Scholarship Chairman
-    2. Philanthropy Chairman
-    3. Librarian/Historian
-    4. Alumni/Co-op Secretary
-    5. Fraternity Educator
-    6. Risk Manager
-3. Appointed House Offices
-    1. Summer House Manager
-    2. Summer Treasurer
-    3. Lodge Critic
-    4. Songleader
-    5. Network Administrator
-4. Judicial Committee
-    1. Chief Representative
+    7. Mental Health Chair
+    8. Rush Coordinator
+    9. Social Coordinator
+    10. Steward
+2. Minor Officers
+    1. Risk Manager
+    2. Scholarship Coordinator
+    3. Philanthropy Coordinator
+    4. Historian Librarian
+    5. Alumni and Co-op Correspondent
+    6. Faculty Correspondent
+    7. Fraternity Educator
+    8. Network Administrator
+3. Judicial Board
+    1. General representative
     2. Senior Representative
     3. Junior Representative
     4. Sophomore Representative
-    5. General Representative
+    5. Freshman Representative
+4. Appointed positions
+    1. Summer House manager
+    2. Summer Treasurer
+    3. Songmaiden
+    4. Idolmaiden
 
-#### Subsection B: Categorization and Caveats
+### Section 2: Gaining and losing a position
 
-1. All House Officers may appoint an assistant.
-2. All the offices under "Executive Committee" and "Major House Offices" are considered Major Offices. All others are considered Minor Offices.
+1. Nominations
+    1. All nominees must be active brothers for the entirety of their elected term, but do not need to be active at the time of their nomination.
+    2. All nominees must intend to be present for the entirety of their elected term.
+    3. All nominees must meet the GPA requirement to hold office specified in Article IX section 4
+    4. Anyone can be nominated at any point prior to an election.
+    5. Nominations must occur at least a week before elections.
+2. Election Procedure
+    1. Elections shall occur during a chapter meeting.
+    2. All nominated brothers will exit the meeting room and in ascending EI order enter the room to give a short speech and answer any question the chapter might have.
+    3. After all speeches the brothers still in the room will have a short discussion period followed by a vote using the rules outlined in Article II section 4.
+3. Major officers Elections
+    1. Shall occur on a date set by the Archon.
+    2. Shall occur during the fall semester, with the exclusion of treasurer which shall occur in the spring, and the member wellness chair which shall be held semesterly.
+    3. Shall occur no later than two weeks before finals week.
+    4. Shall have the winner take office at a time designated by the Archon, no sooner than two weeks after their election but no later than the first chapter meeting of the following spring of fall semester.
+    5. Shall have no candidates who hold another major office during the term of the relevant election.
+4. Minor officer Elections
+    1. Shall occur on a date set by the Archon.
+    2. Shall occur during the fall semester.
+    3. Shall occur no later than two weeks before finals week.
+    4. Shall have the winner take office at a time designated by the Archon, no sooner than two weeks after their election but no later than the first chapter meeting of the following spring of fall semester.
+5. Judicial Board Elections
+    1. Shall occur on a date set by the Archon.
+    2. Shall occur every semester.
+    3. Shall occur no later than the third week of the semester.
+    4. Shall set the voting power of all non-seniors for zero while electing the senior representative, and so on for all class representatives.
+    5. If there are no members of an academic class an additional general representative will be elected.
+    6. Shall have the winner take office immediately.
+6. Appointed Positions
+    1. Shall be designated by the Archon at any time during the semester. If there is contention the appointment must be approved by a class B & D vote.
+    2. Will retain their position until a new person is appointed to replace them, they choose to abdicate or they are dismissed by the Executive Board. 
+7. Loss of office
+    1. An officer can willing vacate their office if they believe themselves incapable of performingpreforming the duties of the office.
+    2. An officer who is found in violation of any requirements outlined within these bylaws may be dismissed by a Class E vote.
+    3. Any member may motion to impeach any officer. Impeachment requires a class B vote.
+Officers have no voting power in motions to remove them from office.
+    4. If an officer is dismissed prematurely the Archon can appoint an interim officer to perform the duties of the office until an election can be held. This appointment must be approved by the Executive Board and can last no longer that six weeks.
 
-### Section 2: Elections and Appointments
+### Section 3: Powers and Responsibilities
 
-#### Subsection A: General
+1. Archon
+    1. Shall preside over all chapter meetings.
+    2. Shall ensure chapter meeting occurs each week of the academic year.
+    3. Shall have the power to call additional chapter meetings as required.
+    4. Shall have the power to stop or limit discussion during chapter meetings.
+    5. Shall strive to represent the chapter and its values to all external parties.
+    6. Shall be responsible for all goings on at the chapter house should they be present. This responsibility falls to the next present person on this list should the archon be absent.
+    7. Shall have the power to appoint interim officers.
+    8. Shall be responsible for providing all paperwork to the International office.
+    9. Shall be tasked with ensuring other officers are performingpreforming their duties and have the resources they need to be effective.
+    10. Shall have the power to create ad-hoc committees and appoint their chairmen.
+    11. Shall have the power to immediately deactivate a brother upon learning of a committed felony, felony accusation or any other action that could threaten the survival of the chapter. Deactivations of this manner must be reviewed by the judicial board as soon as is possible. 
+    12. Shall have the power to appoint an assistant.
+    13. Shall submit a written report to the chapter at the end of their term with recommendations concerning the welfare of the chapter.
+    14. Shall be the chair of the executive board. 
+    15. Shall be a member of the Finance Committee
+    16. Shall be a member of the House Safety Committee.
+2. Vice president of Internal affairs
+    1. Shall performpreform all duties of the archon in times where the archon is unable to perform them.
+    2. Shall remove any individual deemed to be disorderly at a chapter meeting at the request of the Archon.
+    3. Shall act as an arbitrator and work to resolve conflicts between brothers before they escalate.
+    4. Shall organize the events of I-Week.
+    5. Shall be responsible for all fundraising events of the chapter.
+    6. Shall have the power to appoint an assistant.
+    7. Shall submit a written report to the chapter at the end of their term concerning the welfare of the chapter.
+    8. Shall be a member of the executive board.
+    9. Shall be a member of the Member Welfare Committee.
+    10. May be a member of the External relations committee.
+    11. May be a member of the Finance Committee.
+3. Vice president of External affairs
+    1. Shall Complete and submit the 5 star standards accreditation and awards of Excellence packet for the chapter each year.
+    2. Shall attend all Inter-fraternity council meetings and report to the chapter all relevant information.
+    3. Shall be charged with procuring all sportswear and equipment for the chapter.
+    4. Shall have the power to appoint an assistant.
+    5. Shall submit a written report to the chapter at the end of their term concerning the welfare of the chapter.
+    6. Shall chair the External relations committee.
+    7. Shall be a member of the executive board.
+4. Treasurer
+    1. Shall maintain the chapter’s financial records.
+    2. Shall be responsible for the collection of all debt contracts, including leases from active members.
+    3. Shall be responsible for the billing and collection of all chapter accounts.
+    4. Shall be responsible for depositing money into the chapter account.
+    5. Shall be responsible for all checks written in the chapter’s name.
+    6. Shall have the power to appoint an assistant.
+    7. Shall present a written report to the chapter on the stat of the houses finances at the end of every semester, including and recommendation for improvements if necessary.
+    8. Shall chair the finance committee
+    9. Shall be a member of the executive board.
+5. House manager
+    1. Shall be responsible for the upkeep and organization of the House and its materials.
+    2. Shall organize and oversee house jobs and house cleaning parties.
+    3. Shall be responsible for all repairs to the house. Repairs shall be carried out in person, by brothers charged with the task or with the permission of the treasurer, hired help.
+    4. Shall keep records of all chapter positions of substantial value or necessity in order to better submit insurance claims in the events if required.
+    5. Shall be the arbiter of room selection.
+    6. Shall be responsible for the organization of work week.
+    7. Shall be responsible for major renovations to the house or the search for a new one.
+    8. Shall have the power to appoint an assistant.
+    9. Shall submit a written report to the chapter at the end of every semester detailing the current state of the physical house.
+    10. Shall chair the House safety committee.
+    11. Shall be a member of the executive board.
+    12. May be a member of Finance committee.
+6. Secretary
+    1. Shall be responsible for recording minutes at chapter meetings and Executive board meetings
+    2. Shall keep the printer stocked with ink.
+    3. Shall maintain the organization of the drawers.
+    4. Shall be in charge of the chapter mail, and its distribution to appropriate parties.
+    5. Shall submit a written report at the end of their term containing recommendation or the coming year.
+    6. Shall be a member of the executive board.
+7. Member Wellness Chair
+    1. Shall keep and maintain a listing of mental health resources and guidelines for accessing them
+    2. Shall maintain a mental health crisis plan
+    3. Shall chair and run a session of Dead Poet's Society or equivalent
+    4. Shall submit a written report at the end of every semester detailing the state of the chapter's mental health.
+    5. Shall be required to appoint an assistant.
+    6. Shall keep all information told to them in confidence a secret so long as this information does not indicate a threat to the chapter or any brother.
+    7. Shall chair the member wellness committee
+8. Rush Coordinator
+    1. Shall have the final say on all matters pertaining to the recruitment of new members.
+    2. Shall collect from pledges information concerning their opinions of rush.
+    3. Shall be responsible for the collection of all financial information regarding rush.
+    4. Shall have the power to appoint an assistant.
+    5. Shall submit a written report at the end of rush, focusing of its successes and places that could be improved.
+    6. Shall be a member of the External relations committee.
+    7. Shall be a member of the finance committee.
+9. Social Coordinator
+    1. Shall be responsible for all chapter social events of the chapter.
+    2. Shall keep a financial record of all chapter social functions.
+    3. Shall be responsible for the planning and execution of “3-3”.
+    4. Shall be exempt from charges associated for attending “3-3”.
+    5. Shall have the power to appoint an assistant.
+    6. Shall submit a report to the chapter following all social functions outlining its finances, highlights and shortfalls.
+    7. Shall be a member of External relations committee.
+    8. Shall be a member of the chapter safety committee.
+10. Steward
+    1. Shall ensure sign-out is stocked.
+    2. Shall ensure the charges accrued through sign-out are tallied in a timely manner.
+    3. Shall ensure the house is always stocked with essential products (Milk, Bread, Cheese, butter, toilet paper, etcetera.) to be provided free of charge to the brotherhood.
+    4. Shall acquire and maintain the utensils and cooking appliances of the chapter.
+    5. Shall be responsible for the upkeep of the chapter’s kitchen.
+    6. Shall organize and execute the psi upsilon meal plan.
+    7. Shall keep a record of all purchase made using chapter funds.
+    8. Shall submit a spending report at the end of every month to the treasurer.
+    9. Shall submit a written report to the chapter at the end of their term outlining recommendation for the future.
+    10. Shall be a member of the finance committee.
+11. Scholarship Coordinator
+    1. Shall collect and organize all chapter files concerning academics.
+    2. Shall maintain the chapter library.
+    3. Shall run study sessions open to all members
+    4. Shall create academic plans to aid brothers improve their GPA.
+    5. Shall aid in connecting brothers with people in position to aid them academically.
+    6. Shall have the power to appoint an assistant
+    7. Shall submit a report at the end of their term detailing recommendation for the future.
+    8. Shall be a member of the member wellness committee
+12. Philanthropy Coordinator
+    1. Shall to the best of their ability accommodate the requirements of all brothers.
+    2. Shall be in charge of all public service events and philanthropic donations.
+    3. Shall keep a record of all spending and received donations.
+    4. Shall submit a written report to the chapter at the end of each semester detailing the philanthropic work accomplished, including hours spent and funds raised.
+    5. Shall be a member of the external relations committee.
+13. Risk Manager
+    1. Shall ensure the chapters Alcohol policy is consistent with all applicable laws and regulations.
+    2. Shall be charged with enforcing the chapter’s alcohol policy outlined in article IIX
+    3. Shall ensure all members are properly trained in risk mitigation generally through presentation given at the start of each semester.
+    4. Shall be responsible for the appointment of sober brothers.
+    5. Shall have the power to appoint an assistant.
+    6. Shall submit a risk assessment report following all social function.
+    7. Shall submit a written report to the chapter at the end of their term detailing suggestions for the future.
+    8. Shall chair the house safety committee
+14. Historian 
+    1. Shall maintain all photographs and albums.
+    2. Shall provide the alumnus Gary Curzi with photographs for archival on curzi.org.
+    3. Shall be responsible for the acquisition of new composites.
+    4. Shall responsible for providing continual member education through presentation given once monthly.
+    5. Shall maintain a written history of major chapter events.
+    6. Shall store all opinions and write-ups of the chapter’s Judicial Board.
+15. Alumni/co-op correspondent
+    1. Shall compile, edit and distribute the chapter’s semester newsletter the “EI Material”
+    2. Shall be responsible for all correspondence between the alumni, excused members and the undergraduate brotherhood.
+    3. Shall attend all Alumni association meetings and report relevant details to the chapter.
+    4. Shall be responsible for all mailing to non-active members and Psi Upsilon alumni.
+    5. Shall submit a report at the end of their term detailing recommendation for the future.
+16. Faculty correspondent
+    1. Shall ensure our unofficial faculty advisor is informed about relevant activities.
+    2. Shall be responsible for all communications with the faculty of Rensselaer Polytechnic Institute.
+    3. Shall submit a written report at the end of the semester with recommendation for the future.
+    4. Shall be a member of external relations committee
+17. Fraternity educator
+    1. Shall be responsible for the creation or maintenance of a pledge education program.
+    2. Shall be responsible for the education of pledges prior to their initiation to the chapter.
+    3. Shall have the power to appoint an assistant
+    4. Shall give reports to the brotherhood on the progress of the pledges education.
+18. Network administrator
+    1. Shall be responsible for the upkeep, maintenance, organization and moderation of the houses computer network, electronics, digital accounts, website, mailing lists, primary communication service google drive and all other related technologies. 
+    2. The chapter’s drive will include
+        1. The public documentation and work for all officers, including reports and transition documents.
+        2. Public meeting minutes
+        3. Scholarship back work
+        4. A copy of these bylaws
+        5. Current and past five star reports
+        6. Contact information for brothers, alumni and any external persons.
+        7. Copies of document templates
+    3. The chapter’s dive shall not include
+        1. Information pertaining to the chapter’s secrets.
+        2. Any documentation that contain a person’s private or personal information such as but not limited to RINs, birth dates, addresses, health records unless that person has given consent to have that information housed there.
+        3. Any documentation that could be used to deduce a person’s private or personal information.
+        4. Shall have the power to appoint an assistant.
+19. Judicial board member
+    1. Shall represent the interests of the class year who elected them.
+    2. Shall be a member of the judicial board.
+20. Songmaiden
+    1. Shall be responsible for the general upkeep of materials of the chapter’s song books.
+    2. Shall be responsible for leading the chapter in song when appropriate.
+21. Idolmaiden
+    1. Shall be responsible for the acquisition of idols to be used in cabirean rites.
+    2. Shall determine the significance of the idol.
+22. Summer House manager
+    1. Shall maintain the chapter house and perform necessary repairs during the summer semester. 
+23. Summer treasurer
+    1. Shall be responsible for the payment of all bills sent to the chapters during the summer semester.
+    2. Shall collect summer rent.
+    3. Shall deposited all money collected by the chapter during the summer semester.
 
-1. The candidate who receives the most votes under an approval vote shall be elected.
-2. Election days shall be determined by the Archon. Election of the Major Offices must be in November or December.
-3. Each officer will serve for one year or until the next election.
-4. New officers take office at the Chapter meeting after they are elected or at the first Chapter meeting of the next semester; to be determined by the Archon.
-5. Nominations must be made at a meeting one (1) week prior to elections.  The Secretary shall post a list of nominees for the week previous to the elections.
-6. The Secretary shall post the names of the successful candidates for at least one week.
-7. A brother may not hold more than one major office, unless the number of major offices is greater than the numerical size of the Chapter.
-8. Only active brothers are allowed to hold an office. Excused members are allowed to run for office provided that their return to active status will be before their term is to begin.
+## Article V: Committees and Meetings
 
-#### Subsection B: Appointed Positions
+### Section 1: Conventions
 
-1. All appointed positions must be appointed by the President and approved by a Class A vote.
-2. Appointed officers may be dismissed at the discretion of the Executive Committee.
+1. The chair of the committee shall set the time of meetings.
+2. The chair of a meeting will determine the schedule of the meeting.
+3. The chair of a meeting will have the power to end conversation on the current topic.
+4. Committee chairs and permanent members must attend all relevant committee meetings.
+5. There are various officers with a wide penumbra of responsibility’s whose focus may or may not warrant their inclusion in a committee. Such officers are designated as optional members and should be treated as permanent members should their focus be aligned with the relevant committee.
 
-#### Subsection C: Judicial Board
+### Section 2: Chapter Meeting
 
-1. An approval vote taken from among the brothers who are in a certain class at RPI, as determined by number of years in university study, shall be required to elect a class-specific Judicial Board representative.
-2. An approval vote taken from the brotherhood is necessary for the election of a non-class-specific Judicial Board representative.
-3. Election of Judicial Committee representatives shall be held within two weeks of initiation.
-4. Each representative on the Judicial Committee shall serve for one semester or until the next election
-5. The Archon or Vice President may not hold a Judicial Board position. Should a Judicial Board Representative be elected Archon or Vice-President, an election shall be held according to their position on the Judicial Board to replace them.
-6. If at the time of election there are no members in a given class, a general representative shall be elceted to fill the spot.
+1. Shall be chaired by the archon
+2. Shall be open to all members of Psi Upsilon and no others.
+3. Shall meet weekly, and additionally at the discretion of the archon or by the written request of five active members.
+4. Shall only bring motions to vote when there is quorum. Quorum being defined as their being at least two thirds of possible voting power is present
 
-### Section 3: Impeachment
+### Section 3: Executive board
 
-1. To impeach an officer requires a Class B vote.
+1. Shall be chaired by the archon
+2. Shall have as permanent members: 
+    1. The Vice President of Internal Affairs
+    2. The Vice President of External Affairs
+    3. The Treasurer
+    4. The House Manager
+    5. The Secretary
+3. Shall meet at once a week.
+4. Shall be open to all active brothers.
+5. Shall act as a steering committee for the chapter where decisions and future is discussed.
+6. Shall make decisions concerning the chapter which remain valid and binding until the next chapter meeting at which point they must be brought to the attention of the brotherhood.
 
-### Section 4: Implicit Responsibility
+### Section 4: Judicial board
 
-1. The officers are ranked according to the order they are listed in Article V, Section 1.
-2. The most senior ranking officer present in the Chapter House is ultimately responsible for all domestic activity.
+1. Shall be chaired by the chief representative.
+2. Shall elect among themselves a chief representative by a class J vote.
+3. Shall act as a disciplinary board when necessary.
+4. Shall have the power to
+    1. Prevent admittance to chapter social events.
+    2. Prevent the consumption of alcohol on the chapter premise.
+    3. Reduce voting power.
+    4. Levy fines.
+    5. Mandate charitable work.
+    6. Mandate service to the chapter.
+    7. Impose Inactivity.
+    8. Deactivate a brother. This should only be done if the brother poses a clear an imminent risk to the survival of the chapter.
+5. Shall interpret the bylaws
+6. Shall submit a written report and relevant opinions pieces to the Executive board, to then be stored by the historian.
+7. Any brother may appeal the judicial board to hear a case. This appeal must be in writing.
+8. The judicial board may dismiss any case by unanimous decision of all board members not directly involved in the case.
+9. Any judicial board representative may set their voting power to zero in any case they feel they have a vested interest.
+10. Any member may have their voting power set to zero for a case by a class B XJ vote.
+11. Decision of the judicial board can be appealed by a motion made to the house. This motion must have two seconds and uses a class B XJ vote.
 
-### Section 5: Powers and Duties
-
-#### Archon
-
-1. Shall preside at all meetings.
-2. Shall have the power to call special meetings.
-3. Shall call meetings of the Executive Committee.
-4. Shall represent the Epsilon Iota Chapter to all external interests.
-5. Has the power to appoint any temporary officers.
-6. Has the power to limit debate on any motion under discussion.
-7. Shall submit a written report to the Chapter at the end of his term with recommendations concerning the welfare of the Chapter.
-8. Must be a member of the Finance Committee.
-9. Shall have the power to create any ad-hoc committees and appoint chairmen.
-
-#### Vice-President of Internal Affairs
-
-1. Shall perform all duties of the Archon in the event of the Archon’s absence.
-2. Shall oversee operation of all committees.
-3. Shall organize pre-Initiation Week activities.
-4. Shall organize fund raising activities.
-5. Shall submit a written report to the Chapter at the end of his term concerning the welfare and direction of the Chapter.
-6. Is responsible for obtaining pledge pins and brother badges.
-7. Shall organize the Initiation ceremonies.
-8. Shall be responsible for Alcohol Policy representation.
-9. Is responsible for keeping order at Chapter meetings.
-10. By request of the President, Shall remove an individual deemed to be disorderly at a Chapter meeting
-
-#### Vice-President of External Affairs
-
-1. Shall complete and submit the 5 Star Standards Accreditation and Awards of Excellence packet for the Chapter each year.
-2. Shall attend all IFC meetings
-3. Shall report to the Chapter all relevant events that occurred and information that was presented at all IFC meetings since the last Chapter meeting.
-4. Shall oversee and coordinate all matters pertaining to the external affairs of the chapter.
-5. Shall submit a written report to the Chapter at the end of his or her term concerning the welfare and direction of the Chapter.
-6. Shall chair the External Affairs Committee.
-7. Shall call meetings of the External Affairs Committee no less than once every two weeks. 
-8. Shall ensure that all positions on the External Affairs Committee are supplied with the appropriate resources and are compliant with Five Star. 
-9. Is in charge of organizing all sports and sports activities of the brotherhood.
-10. Shall be in charge of ordering all sportswear and Fraternity clothing.
-
-#### Treasurer
-
-1. Shall keep financial records of the Chapter.
-2. Shall be responsible for the depositing of money and the writing of checks.
-3. Shall be responsible for the billing and collection of all accounts of the Chapter.
-4. Shall be responsible for presentation of balance sheets, to be filed as a record of the Chapter, stating the financial position of the chapter as of September 15.
-5. Shall have the final decision in matters of finance between themselves and the House Manager.  Both parties may appeal to the Executive Committee.
-6. Shall be responsible for distributing Chapter bills in accordance with Article VII, Section 4.
-7. Must submit a written report to the Chapter at the end of his term concerning the welfare and direction of the Chapter.
-8. Must chair the Finance Committee.
-
-#### House Manager
-
-1. Shall be responsible for the upkeep and order of the House. This includes the assignment of jobs and work parties.
-2. Shall be responsible for all necessary repairs to the House.  These shall be carried out by them or other brothers, or if necessary, with the permission of the Treasurer, some hired help.
-3. Shall be responsible for all supplies covered by the Chapter budget.
-4. Shall chair the House Committee.
-5. Shall keep a logbook of all Chapter possessions of substantial value or necessity; recording information necessary for insurance.
-6. Shall be the arbiter of room selection.
-7. Shall submit a written report to the Chapter of the operation of the Chapter during his term and make recommendations for the following year.
-8. Shall be responsible for collection lease agreements and submitting them to the Alumni Association.
-9. Shall be responsible for ensuring the House is in at least minimal compliance with RPI, city, county, state and federal health and safety regulations.
-
-#### Secretary
-
-1. Shall take minutes of the Chapter meetings and Executive Committee meetings.
-2. Shall keep a continuing and permanent record of all meetings.
-3. Shall incorporate into the bylaws amendments to the bylaws.
-4. Shall be the Chapter’s “Diamond” editor.
-5. Is in charge of all correspondence other than that with Alumni or faculty.
-
-#### Rush Chairman
-
-1. Shall be a member of the external affairs committee.
-2. Shall be in charge of all matters pertaining to the recruitment of new members.
-3. Shall make all financial arrangements concerning rush, with the consent of the Treasurer.
-4. A budget shall be submitted to the Treasurer prior to the start of rush.
-5. Shall be a member of the Finance Committee.
-6. Shall submit a written report to the Chapter at the end of his term concerning recommendations for the coming year.
-
-#### Social Chairman
-
-1. Shall be a member of the external affairs committee.
-2. Shall arrange all matters concerning social functions of the Chapter, including setup and cleanup at parties.
-3. Shall make all financial arrangements pertaining to social functions, with the consent of the Treasurer.
-4. A rough budget shall be submitted to the Treasurer at the start of the semester. 
-5. Shall submit a written report to the Chapter at the end of his term of office.
-6. Shall submit a financial report to the Chapter after each social function.
-
-#### Steward
-
-1. Is responsible for the purchasing and management of all food, utensils, and cooking appliances for the Chapter.
-2. Shall organize cooking schedules and menus.
-3. Is responsible for the upkeep of the kitchen facilities.
-4. Must be a member of the Finance Committee.
-5. Shall endeavor to provide the means to allow the preparation of the best meals possible within the constraints of the requested meals and budget.
-
-#### Scholarship Chairman
-
-1. Is in charge of collection and organization of all Chapter files concerning academics.
-2. Is in charge of all study sessions for members.
-3. Is in charge of promoting the general attitude of scholarship in the brotherhood.
-
-#### Philanthropy Chairman
-
-1. Is in charge of accommodating, to the best of his ability, any religious requirements of individual brothers or the entire brotherhood.
-2. Is in charge of public service events and philanthropic donations.
-3. Shall submit a written report to the Chapter at the end of his term concerning the future of the Chapter.
-
-#### Librarian/Historian
-
-1. Shall be in charge of storing Chapter minutes and correspondence from the previous years.
-2. Shall keep all photographs and scrap albums up to date.
-3. Shall be in charge of arranging for taking, selling, and framing of Fraternity pictures and Chapter composite.
-4. Shall be in charge of keeping pledge pins, manuals, and songbooks.
-5. Is in charge of all printing, such as invitations and Christmas cards.
-6. Shall maintain a Chapter library.
-7. Shall keep a historical record of the Chapter.
-8. Shall be responsible for ordering magazine subscriptions, newspapers, etc.
-9. Shall be responsible for storing Judicial Board opinions and write-ups.
-10. Shall be responsible for the organization of files in the Psi Upsilon Brother Google Drive (or technological equivalent). Librarian/Historian will ensure that only active brothers have uploading privileges, and will ensure that active brothers are aware of the drive and are contributing when appropriate. 
-11. Psi Upsilon Brother Google Drive is an online document library which must include (but is not limited to):
-    1. House Manager documents, such inspection reports, fire drill reports, appliance receipts, etc. 
-    2. Rush documents, such as designs for bids, past rush calendars/current rush calendar, rush shirt designs, and other   related rush documents (receipts, attendance lists etc)
-    3. Copy of the budget, copy of the leases, and an empty debt contract form
-    4. Copy of the PUPPY’97 policy, and other risk policies
-    5. Meeting minutes
-    6. Scholarship backwork
-    7. Photocopies of important house documents
-    8. End of year report for each position 
-    9. Current and past Five Star Reports
-    10. Given contact information and shirt size, a list of house positions, and other relevant information
-    11. Template for sign out sheet
-* Items that shall not be included:
-    1. Information pertaining to the chapter’s secrets
-    2. Personal debt contracts
-    3. Grade information that identifies any individual
-    4. Any documents that contain private/personal information (such as RINs, birth dates, addresses, health related information, etc) without the consent of the individual 
-
-
-#### Alumni/Co-op Secretary
-
-1. Is the editor of the Chapter’s newsletter, “EI Material,” which must be written and distributed at least twice per academic year.
-2. Is responsible for all correspondence between the Alumni, excused members, and the undergraduate brotherhood.
-3. Shall attend Alumni Association meetings.
-4. Is responsible for reporting actions of the Alumni Association to the Chapter.
-5. Is in charge of all mailings to excused members, area alumni, alumni of other Chapters, and Fraternity headquarters.
-
-#### Fraternity Educator
-
-1. Shall be responsible for the education of pledges previous to Initiation into the brotherhood.
-2. Shall report to the brotherhood as to the progress of the education as requested by the Archon.
-3. Shall chair the Pledge Education Committee.
-4. Shall implement a Fraternity Education program as designed by the Pledge Education Committee (see Article VI, Section 7) within 2 weeks of election.
-5. Shall submit an article on the status of the pledge class to the Alumni Secretary for the “EI Material” upon request.
-
-#### Risk Manager
-
-1. Shall be responsible for suggested changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and as the Chapter evolves.
-2. Shall be responsible for identifying any potential hazards within the Chapter House or at a Chapter event
-3. Shall monitor parties according to all Institute, State, Federal and Psi Upsilon International Fraternity policies.
-4. Shall be responsible for suggesting amendments to the Chapter’s Risk Management Program(See Article XI) 
-
-#### Summer House Manager
-
-1. Shall maintain a written record of summer rent due and collected, to be given to the Treasurer at the beginning of the fall semester.
-2. Shall be responsible for the duty described in Article V, Section 5D1, 2, 3, 5, and 9.
-3. Shall be responsible for ensuring continuity of Chapter operations.
-
-#### Summer Treasurer
-
-1. Shall be responsible for paying any bills that come due while the elected treasurer is not at RPI.
-2. Shall collect any payments paid during the time the elected treasurer is not at RPI.
-
-#### Lodge Critic
-
-1. Shall be responsible for communicating any grievances reported to him, by any brother, to the brotherhood as a whole.
-
-#### Songleader
-
-1. Shall be responsible for the general upkeep of materials and education of Songs of the Psi Upsilon Fraternity to the chapter.
-
-#### Network Administrator
-
-1. Shall be responsible for the general upkeep and maintenance of computer networks, electronics, computer accounts, website, and other related business in the chapter house.
-2. Shall maintain the chapter mailing lists.
-3. In the absence of the Network Administrator, the Secretary or house manager shall adopt these responsibilities.
-
-## Article VI: Committees
-
-### Section 1: Executive Committee
-
-1. Shall be chaired by the Archon.
-2. Members shall be as described in Article V, Section 1, Subsection A.
-3. Shall act as a steering committee for the Chapter where policy decisions and future is discussed.
-4. Shall meet at least once every two (2) weeks, subject to the discretion of the Archon.
-5. May make decisions concerning the Chapter, which are valid until the next Chapter meeting at which point they must be brought to the attention of the brotherhood.
-
-### Section 2: Judicial Committee
-
-1. Shall be chaired by the Chief Representative.
-2. Shall elect the Chief Representative from amongst themselves, by a class J vote.
-3. Shall act as judicial board for disciplinary action as deemed necessary.
-4. Has the power to levy fines and disciplinary action as deemed necessary.
-5. Shall be the final interpreters of the bylaws.
-6. An appeal to the J-Board must be submitted by an active brother in writing
-7. Any appeal made to the J-Board may be dismissed without action if a unanimous Class J vote is made to dismiss the appeal.
-8. Shall submit an official decision in writing on all matters handled by the J-Board.
-9. Any decision made by the J-Board can be appealed, requiring a motion and two seconds, to the rest of the house. The appeal is successful if a Class XJ vote yields a two-thirds majority to overrule it. In this case, the decision is overturned.
-10. Any Judicial Board representative with vested interest in a Judicial Board decision can voluntarily abstain, or be made to abstain by a Class XJ vote, from the Judicial Board vote and decision.
-11. If the class J vote made to a resolve a Judicial Board decision is tied, the original result of the case is upheld. If not such result exists, the decision is left to the Archon.
-
-### Section 3: Community Relations Committee
-
-1. Shall be chaired by the Philanthropy Chair.
-2. Responsible for organizing community and public service projects.
-3. Responsible for the general public relations of the Chapter in the Community.
-
-### Section 4: Finance Committee
+### Section 5: Finance
 
 1. Shall be chaired by the Treasurer.
-2. Responsible for preparing a budget for the following academic year.
-3. Should meet once a month or at the Treasurer’s discretion to review the Chapter’s financial status.
+2. Shall have as permanent members
+    1. The Archon
+    2. The Vice President of External Affairs
+    3. The Steward
+    4. The Rush Coordinator
+3. Shall have as optional members
+    1. The Vice President of Internal Affairs
+    2. The House Manager
+    3. The Social Coordinator
+4. Shall be responsible for preparing and approving the chapter’s budget.
+5. Shall have the power to raise minimum payments if the chapter is in debt.
+6. Shall meet at least once a month to review the chapter’s financial status.
 
-### Section 5: Risk Management Policy Committee
+### Section 6: External Relations
 
-1. Chaired by the Risk Manager.
-2. Responsible for suggesting changes to the Chapter’s Alcohol Policy (see Article X) as state and local laws change and the Chapter evolves.
-3. Shall monitor parties in accordance to the Alcohol Policy.
+1. Shall be chaired by Vice President of External Affairs
+2. Shall have as permanent members
+    1. The Rush Coordinator
+    2. The Social Coordinator
+    3. The Philanthropy Coordinator
+    4. The faculty Correspondent
+3. Shall meet once a week
+4. Shall be responsible for organizing all chapter events involving non active members. Such events include
+    1. Rush events
+    2. Philanthropic events
+    3. Faculty dinners
+    4. Social events
+5. Shall ensure such events scheduled to achieve maximum attendance.
+6. Shall be responsible for collating all financial information pertaining to such events.
+7. Shall be responsible for collating all relevant information necessary for the completion of the five-star accreditation program.
+8. Shall ensure the alumni/Co-op correspondent is given ample time to relay relevant information.
+9. Shall aid in the planning and execution of rush.
+10. Shall ensure the chapter’s recruitment violates no applicable regulations or policies.
+11. Shall aid in providing all relevant information for the completion an acceptable recruitment plan.
 
-### Section 6: House Committee
+### Section 7: Member Wellness
 
-1. Shall be chaired by the House Manager.
-2. Shall be responsible for major renovation of the current House.
-3. Shall meet before the end of the spring semester to determine renovations and cleaning needed to be completed prior to the fall semester.
+1. Shall be chaired by the Member Wellness Chair
+2. Shall have as permanent members
+    1. The Vice President of Internal Affairs
+    2. The Scholarship Coordinator
+3. Shall coordinate each member's response to brothers deemed "at risk"
 
-### Section 7: Pledge Education Committee
+### Section 8: Chapter Safety
 
-1. Shall be chaired by the Fraternity Educator.
-2. Shall be responsible for defining a Fraternity education program and help the Fraternity Educator implement such a program.
+1. Shall be chaired by the Risk Manager
+2. Shall have as permanent members
+    1. The Archon
+    2. The Social Coordinator
+3. Shall be responsible for suggesting changes to the houses risk management policies.
+4. Shall meet at the end of each semester, in addition to other times at the discretion of the risk manager.
 
-### Section 8: External Affairs Committee
+### Section 9: Ad-hoc committees
 
-1. Shall be chaired by the Vice-President of External Affairs.
-2. Members shall include the Rush Chairman, the Social Chairman, the Philanthropy Chairman, and the Alumni Secretary.
-3. Shall meet at least once every two (2) weeks.
-4. Responsible for compiling information from the Chapter to be used for the Chapter's Five Star submission.
-5. Shall ensure that the Philanthropy Chairman has the resources needed to conduct a charitable event involving external organizations.
-6. Shall ensure that the Social Chairman has the resources needed to organize social events with external organizations.
-7. Shall ensure that the Alumni Secretary is given all information that needs to be passed on to alumni.
-8. Shall ensure that the Chapter's recruitment is consistent with IFC regulations and policies. 
-9. Shall ensure that all committee members are aware of important dates and deadlines from the IFC.
-10. Shall ensure that the planning and organization of events is coordinated between the Rush and Social Chairmen.
+1. Shall be chaired by its creator or an appointee of the Archon.
+2. Shall meet as directed by its chair until it fulfills the purpose for which it was created.
 
-### Section 9 Ad-hoc Committees
+## Article VI: Finance
 
-1. Shall be chaired by the creator or an appointee of the Archon.
-2. Shall meet as directed by the chair or Archon, until the committee is no longer required.
+### Section 1: Budgets
 
-## Article VII: Finances
+1. Shall be set by the finance committee
+2. Shall be set with the goal of maintaining two months or rent in the chapter’s account.
+3. Shall be drafted and approved by the end of the previous semester.
 
-### Section 1: Room and Board
+### Section 2: Fiscal year and schedule
 
-Room and board shall be budgeted by the Treasurer and approved by a Class B vote in the spring before the end of the fiscal year.  Room and Board shall be billed and paid on a semesterly basis, or the offending member may be removed from the house at the discretion of the Judicial Board.
+1. The fiscal year shall begin and end yearly on the 13th of June
+2. Payments made by brothers to the house towards any outstanding debt must be paid by the second Sunday of September, October and November during the fall semester and by the second Sunday of February, March and April during the spring semester.
+3. Summer rent must be paid by the end of August for the financial year. 
 
-### Section 2: Fiscal Year
+### Section 3: Rent
 
-The fiscal year shall begin and end yearly on the Thirtieth of June.
+1. All brothers living in the chapter house shall pay rent.
+2. All brothers living in the chapter house must sign a lease at the end of the semester prior to the start of their living in house.
+3. All rent must be paid during the semester in which it is charged.
+4. The failure to pay rent will be grounds for removal from the chapter house by class E vote.
 
-### Section 3: Undergraduate Debt.
+### Section 4: Undergraduate debt
 
-1. A debt contract will be written up by the Treasurer at the beginning of the semester for each active brother, and will be affirmed by the Archon and the brother. The contract will detail sum of the amount of debt the brother has accrued plus the International and social dues of that semester. The brother will be responsible for the repayment of that amount as detailed below, or in a manner as agreed upon by the Treasurer and brother. The sum amount will not include the rent of brothers living in house.
-2. Brothers will be responsible for the payment of 4% or $40 (whichever is greater) of their total debt on the second Sunday of the month, for the first three full months of the semester (September, October, November, February, March, and April). Brothers will receive notice from the Treasurer during the first week of the month.
-3. Upon missing three or more payments during their active membership, there will be a fine assessed to the brother of $2 or 2% of their total debt, whichever is greater. The treasurer must inform the brother of charges before they are levied.
-4. If a brother misses two consecutive monthly payments privileges may be lost at the discretion of the Archon. Those recommended are voting and social privileges.
-5. Only RPI students or active brothers are allowed to accumulate debt. Exceptions may be granted by the Executive Committee.
+1. Active brothers shall accrue debt at the start of each semester in a quantity equal to that semesters dues.
+2. Each semester every brother will sign a debt contract, written by the treasurer and affirmed by the archon. 
+3. Minimum payments are the greater of 40$ or 4% of outstanding debt.
+4. If a minimum payment is missed the offending brother will talk to the treasurer about the reasons and potential accommodations that can be made.
+5. For each consecutive missed payment beyond the first an offending brother will be sent before the judicial board.
 
-### Section 4: Alumni Debt
+### Section 5: Alumni debt
 
-1. Upon becoming an alumnus of the house, there will be a three month period during which no payment must be made.  After that period a payment of $40 or 4% of your outstanding debt, whichever is greater, must be made on a monthly basis.
-2. For every month in a fiscal year in which there are three or more outstanding payments, a charge of $4 or 4% of the payment, whichever is greater, shall be levied for each outstanding payment.  The Treasurer must obtain a written contract detailing the payment plan as quickly as possible.
-3. Bills to alumni that owe the house money will be sent out on a quarterly basis.
-4. An alumnus that is still a full time student falls under the payment rules that apply to undergraduates.
+1. The collection of debt from alumni falls to the alumni association of the Epsilon Iota Chapter of Psi Upsilon.
+The rules and minimums regarding the collection of debt from alumni is at the discretion of the alumni association of the Epsilon Iota Chapter of Psi Upsilon.
 
-### Section 5: Social Dues
+### Section 6: Deficits and Surpluses
 
-1. All active brothers shall pay social dues.  Each brother shall pay the social dues whether he lives in the house or not.
+1. If the chapter is in sustained debt it will be within the power of the finance committee to raise minimum payments.
+2. If the chapter’s budget is projected to run a deficit due to changes in circumstance between its being determined and its implementation it will be within the power of the finance committee to raise dues mid-semester.
+3. If the chapter’s budget is projected to run a surplus due to changes in circumstance between its being determined and its implementation, it will be within the power of the finance committee to lower dues mid-semester.
+4. If the chapter’s funds are in excess of its target sum it will be within the power of the finance committee to lower minimum payments.
 
-### Section 6: Fines
+### Section 7: Checks
 
-1. Fines concerning Chapter meetings are described in Article III, Section 6D,E.
-2. The fine for failing for perform a House Job shall be twenty (20) dollars at the discretion of the House Manager.
-3. Fines concerning damage to the house shall be levied by the House Manager, with agreement from the Archon.
-4. Fines shall be collected by the Treasurer and used to cover semesterly budget short-falls.
+1. The Archon and Treasurer will have the power to issue checks in the houses name.
+2. If anyone else issuers a check in the chapter’s name, they will have their debt to the chapter increased by the value of the issued check. This Charge will not be applied if the check is retroactively approved by both the archon and the treasurer.
 
-### Section 8: Credits
+### Section 8: Appeals
 
-1. Credits may be awarded at the discretion of the House Manager upon the completion of work beyond that required by the normal duties of a brother.
-2. Credits may be applied against a brother’s outstanding debt, but are nonrefundable.
+1. Any brother may appeal to the Judicial Board or treasurer for exemptions from required payments or a personal reduction of minimums if their financial state makes payment impossible.
+2. The treasurer must appeal to the Judicial Board if they seek to make an appeal.
 
-### Section 9: Excess Moneys
+## Article VII: Housing
 
-1. Excess moneys at the end of the fiscal year are nonrefundable unless approved by a Class C vote.
-2. Moneys remaining after the end of the fiscal year shall be put in short term accounts.
+### Section 1: Qualifications and Requirements
 
-### Section 10: Checks drawn against the Chapter Treasury
-
-1. All checks to be drawn against Chapter funds must be signed either by the Treasurer or Archon.
-2. All checks to be drawn against Chapter funds must be signed by at least two of the following officers: Archon, Vice President, Treasurer, where one of the signatures must be that of the Archon or Treasurer, if the amount of the check is equal to or greater than one hundred dollars ($100), unless said check will be used to cover outstanding debt incurred by the chapter in the normal course of operations, e.g. the power bill.
-3. Any check to be drawn against Chapter funds issued to the Treasurer or to the Archon must be signed by any two of the following officers: Archon, Vice President, Treasurer, regardless of amount.
-
-### Section 11: Social Chair 3-3 Exception
-
-1. The Social Chairman shall not have to pay his share of the Chapter’s “3-3” cost which he organizes and oversees.
-
-### Section 12: Judicial Board Appeals
-
-1. Any brother may appeal to the Judicial Board for exemption from these rules.  If granted, no fine(s) will be levied.
-
-## Article VIII: Suspension and Expulsion
-
-1. Any member who has been reported as acting contrary to the interests of the Chapter shall, after due notice, be required to go before the Judicial Committee and answer to the charges against them. The Judicial Committee may impose a fine on the member if deemed necessary.
-2. Any member, after due notice, may be expelled by a Class C vote. That member shall be considered to have a deactive status (see Article IV, section 4).
-3. Reactivation of a deactive brother may only be granted by the procedure outlined in Article IV, section 4.
-4. Any member who commits a felony while on Fraternity property, or while conducting Fraternity business may be subject to an immediate expulsion by a majority vote of the Judicial Committee. This expulsion is subject to review at the next Chapter meeting at which the expulsion may be overturned by a Class C vote.
-
-## Article IX: Housing
-
-### Section 1: Rules
-
-1. In order to afford the cost of the physical House, we must be able to ensure that it is occupied at an optimum capacity.
-2. Only active brothers are allowed to live in the House.
-3. Any member may live in the house with the approval of the brotherhood and the Alumni Board.
-4. Non-member boarders shall only be solicited to live in the House after a class B and D vote by the undergraduate brotherhood, and must subsequently be approved by the Alumni Association of the Epsilon Iota Chapter. No boarders shall be allowed to live in the House until both requirements are met.
+1. By default, only active brothers of the Epsilon Iota chapter of Psi Upsilon may live in the chapter house
+2. Any member of the Epsilon Iota Chapter of Psi Upsilon may live in house with the approval of the brotherhood.
+3. Any other boarder may live in house only following a minimum class B & D vote of the brotherhood and the approval of the Alumni Association of the Epsilon Iota Chapter.
 
 ### Section 2: Required live-ins
 
-The Archon is required to live in the House.
-The following must live in the House, after voluntary assignments, in order to achieve optimal occupancy:
-  1. House Manager
-  2. Steward
-  3. Vice President of Internal Affairs
-  4. Vice President of External Affairs
-  5. Treasurer
-  6. Secretary
-  7. Remaining brothers by descending EI number.
+1. To achieve optimal occupancy, the following people shall be required to reside in the chapter house in the order that they appear below.
+    1. The Archon
+    2. Voluntary live-ins in order of Descending EI number
+    3. The House Manager
+    4. The Steward
+    5. The Member Wellness chair
+    6. The Vice President of Internal Affairs
+    7. The Vice President of External Affairs
+    8. The Treasurer
+    9. The Secretary
+    10. Remaining Brothers in Descending EI number
 
 ### Section 3: Room selection
 
-The Archon shall have first preference in room selection.  Preference then goes to the remaining brothers in order of ascending EI number.
+1. The Archon receives first choice in room selection.
+2. Preference then goes to the lowest EI number.
+3. The house manager shall resolve any conflicts that arise from room selection.
 
-## Article X: Alcohol Policy
+## Article VIII: Risk Management
 
-### Section 1: References
+This Goal of this policy above all others is to ensure the safety of the brothers of the Epsilon Iota Chapter of Psi Upsilon. It is formed such that the brothers will be able to go about their college careers with minimal risk to themselves and others. 
 
-The Chapter shall abide by the following policies and guidelines:
-  1. RPI’s Alcohol Policy (Section II, “RPI Alcohol Recommendations”).
-  2. RPI’s guidelines for fraternity parties (Appendix E, “RPI Alcohol Recommendations”).
-  3. RPI’s IFC Policy on Alcoholic Consumption.
-  4. Psi Upsilon Risk Management Program
+### Section 1: Adherence to other policies
 
+The chapter shall abide by the following policies and guidelines
 
-## Article XI: Risk Management Program
+1. Rensselaer Polytechnic Institute’s Alcohol Policy (section II, “RPI Alcohol Recommendations”)
+2. Rensselaer Polytechnic Institute’s fraternity party guidelines (Appendix E, “RPI Alcohol Recommendations”)
+3. Rensselaer Polytechnic Institute’s Interfraternity council’s policy on Alcoholic Consumption
+4. The Psi Upsilon Risk Management Program
 
-### Section 1: Statement
+In the event of conflicts between the listed policies or policies listed below the most stringent policy is to be enforced. 
 
-1. This policy is formed such that the brothers of the Epsilon Iota Chapter of the Psi Upsilon fraternity will be able to go about their college careers without risk to themselves and others. These policies will fulfill this goal, while maintaining a friendly and happy brotherhood. The house will be a safe environment by mandating the presence of a sober brother at all times and by promoting brother intervention.
+### Section 2: Alcohol containment
+1. All alcoholic drinks above 30 proof that are stored in the chapter house must be kept in a designated locked location when not in use.
+2. All other alcohol owned by any number of specific brothers, stored in the chapter house must be kept in a private area or in the designated locked location.
+3. Alcohol stored in private areas must be registered with the Risk Manager and archon.
+4. All unlabeled alcohol stored in the chapter house shall be house alcohol and is free to any brother of legal appropriate age.
+5. All alcohol is to remain in its storage space if there is no sober brother present.
+6. The Keys or combinations to any alcohol storage locations are to be granted to the Archon and the Risk Manager.
+7. Keys or combination are to be granted to sober brothers while they are on duty. They will be retrieved or changes as applicable upon the termination of duties.
+8. If a key or combination cannot be obtained after all efforts are made to contact the holders the matter should be brought up at the following chapter meeting. The lock should not be bypassed.
 
-### Section 2: Risk Manager
-1. It is the responsibility of the Risk Manager to ensure that at the first house meeting of the semester with mandated potential new member attendance the chapter discusses all risk management policies we hold ourselves to for their continued relevance and practicality. This discussion should encompass a discussion on why this policy is important to organizations and to specifically this chapter. This discussion should encompass all tacit rules regarding alcohol and fraternity safety. This discussion should review recommended ways for the sober brother to handle possible situations.
-2. It is the responsibility of the risk manager to ensure that a brother is selected to be a sober brother for every day deemed necessary by the brotherhood at the beginning of the semester.
+### Section 3: Sober brother selection
 
-### Section 3: Alcohol Containment
-1. All alcohol stored in the house owned by one or more specific brothers is to be stored in a private area or locked locations in the basement of the house, and not left in the public areas of the house unattended.
-2. All alcohol stored in the house not owned by any particular brother is declared house alcohol and is to be stored in locked locations in the basement of the house.
-3. The location chosen to store all house alcohol shall have a lock to prevent brothers from consuming alcohol without first designating a willing sober brother.
-4. Keys or combination for locks are to be given to the Risk Manager and The Archon of the Fraternity, with an additional key to be held by the designated sober brother for the evening. In the Event that any of the brothers who would be given a key is under the age of 18 their key is passed down to the next highest ranking officer on the Executive Committee. 
-5. The lock is only to be removed when a keyed brother verifies that there is a sober brother present and ready to supervise the activities and reduce risk. The lock can then remain open until the drinking has ceased but must be closed before the sober brother retires for the evening.
-6. If a keyed brother is not present, an effort must be made to contact all keyed brothers to determine if they can unlock alcohol containers. If a key cannot be obtained a review of key availability will occur at the next chapter meeting.
-7. Any brother who fails to adhere to the alcohol containment rules will appear before the J-board, with a recommendation of social probation and a maximum financial penalty of $50.
+1. There must be a sober brother at any point alcohol is being consumed within the house.
+2. By the end of rush the risk manager shall have compile a list of sober brothers for each Friday and Saturday Night.
+3. The Risk manager shall assign sober brothers prior to any Social events at which alcohol is expected to be consumed. 
+4. Pre assigned Sober brother responsibility’s must be divided as evenly as possible among brothers who consume alcohol in the chapter house.
+5. The risk manager may send any brother unwilling to act as a sober brother to the Judicial board.
+6. Any person who fails to execute their duties as a sober brother must stand before the judicial board.
+7. Any sober person may volunteer serve as a sober brother at any time after rush ends.
 
-### Section 4: Sober Brother Selection
-1. There must be a sober brother at the house at all times alcohol is being consumed in a public manner.
-2. At the Beginning of a semester the risk manager must designate a sober brother for every Friday and Saturday night, as well as any night with a scheduled event that may result in drinking such as parties, gatherings, or any other night the brotherhood decides that it is necessary. 
-3. Every eligible brother must fulfill this role, such that it is evenly distributed among the brotherhood. Any brother unwilling to fulfill this role will appear before the J-board at the request of the risk manager, with a maximum financial penalty of $50.
-4. Any eligible brother who does not fulfill their duties as the sober brother will appear before the J-board at the request of the risk manager, with a maximum financial penalty of $100.
-5. The list of eligible sober brothers can be determined by the list of all undergraduate brothers minus any brother under the age of 18 and any brother who does not have a valid drivers license.
+### Section 4: Sober brother responsibilities
 
-### Section 5: Sober Brother Responsibilities
-1. While the sober brother is on duty, they have the authority to limit the amount of alcohol someone is consuming and end the event. The sober brother can end the event if it is after 2 am and must end the event if there is any reason to believe the event has become unsafe. Unsafe includes but is not limited to the likelihood of physical violence or a likelihood of individuals undertaking exceedingly dangerous pursuits.
-2. The Sober Brother is to be present at the house from 9pm until 2am the night of their scheduled shift, excepting that their shift is covering a scheduled event that takes place at a different time, in which case they must cover the entire event. 
-3. In the event that there are still people drinking when the sober brother wishes to retire, they may have another brother assume the responsibilities and authority of sober brother for the remainder of the evening, however they are not allowed to leave until a brother agrees to take over, or the alcohol is once again locked away and the people have started to sober up.
-4. The Sober brother is to remain in the common areas of the house and should be mindful of what is going on, though they are allowed to work on anything they want or do anything they wish to occupy their time other than consume alcohol or any other intoxicating substances.
-5. The Sober Brother is also to act as a designated driver for any brother or guest, whether going from the house to their home, another location to the house, or another location to their home. To fulfill this responsibility they must make sure the house phone is answered during their shift.
-6. In the event that the sober brother does not have a car available to them on campus another brother must make their car available to the sober brother, so they may fulfill their role as a designated driver.
-7. It is the sober brothers responsibility to make sure that brothers do not become dangerously intoxicated and to resolve any disputes or issues that arise.
+1. Brother assigned to be sober during an event must be present for the entirety of the event or until they have confirmed that their designated replacement has arrived.
+2. Brothers assigned to be sober on a given day must be present between 9:00 pm and 2:00 am at the minimum.
+3. At the end of their shift if the sober brothers does not or cannot find a volunteer replacement they must ensure all alcohol is returned to it’ appropriate storage location, that locks are returned as appropriate and that all remaining drinks are disposed of.
+4. The sober brother is to pour all drinks containing alcohol 30 proof or above.
+5. The sober brother is to remain in sight of the primary group of alcohol consumption though they are free to work or otherwise occupy their time.
+6. The sober brother shall call all relevant parties in the event of an incident.
+7. It is the sober brother’s responsibility to prevent any brother from becoming so drunk as to be a danger to themselves or others. To this end they have the following powers
+    1. To cut off any brother at any time for any reason.
+    2. To prematurely end an event or otherwise make alcohol inaccessible.
+    3. To withhold alcohol until a brother eats something or drinks water
 
-### Section 6: Responsibilities in the event of prevention failure
-1. Any brother who is currently sober should immediately call for external help from public servants, RPI public safety, Troy police, or emergency medical services. 
-2. The on duty sober brother should then call the Archon and Alumni Advisor.
-3. A way to reach all necessary people must be listed on the contact sheet.
-4. Within one week, the Archon will inform Psi Upsilon international of what has occurred.
-5. This policy will be reviewed to prevent a failure of the same nature.
-6. The E-board lead by the Vice President will conduct an investigation into why no brother, sober or intoxicated, intervined to prevent the transgression. An educational program will be developed by the Risk manager to address the lack of brother bystander intervention.
+### Section 5: In the event of prevention failure
+1. Any sober active member is to immediately call the relevant emergency line. Relevant numbers should be on the contact information sheet on the main floor of the house
+2. After applicable help is on the way the sober brother is to call and inform the archon and alumni advisor whose numbers should be posted on the contact information sheet.
+3. Within one calendar week, the Archon having gathered details of the incident will inform Psi Upsilon International of what has occurred.
+4. This policy will be reviewed by the chapter safety committee to prevent a failure of the same nature.
+5. The Executive board will conduct an investigation into why nobody intervened to prevent the incident and the house will undergo a bystander intervention or other applicable program put together by the risk manager.
 
-## Article XII: Psi Upsilon Scholarship Policy
+## Article IX: Scholarship Policy
 
-### Section 1: Statement
+As our chapter strives for academic excellence, each brother should endeavor to attain the highest possible academic standing. He chapter should always strive to go above and beyond other fraternal organizations, and each brother should be committed to supporting one another academically.
 
-1. As our chapter strives for academic excellence, each brother should endeavor to attain the highest possible GPA. The chapter’s goal should be to have a cumulative average above the all-Greek average. The brothers of this fraternity should be committed to supporting each other in their academic efforts.
+### Section 1: Requested Information
 
-### Section 2: Scholarship Chair
+1. It is requested that brothers inform the Archon and Scholarship Coordinator of their current course schedule.
+2. It is requested that brothers inform the Archon and Scholarship Coordinator of courses they feel confident in acting as a tutor in. 
+3. It is requested that brothers inform the Archon and Scholarship Coordinator of the GPA or sign a release form allowing Rensselaer Polytechnic institute to do so.
+4. It is requested that brothers, particularly those in Cautionary and Probationary standing sign the EWS release form.
 
-1. Brothers and pledges should submit course schedules to the Scholarship Chair.
+### Section 2: Standing
 
-### Section 3: GPA Requirements
+1. A member with a GPA in excess of 3.5 will be considered to be on Exceptional academic standing.
+2. A member with a GPA between 3 and 3.5 will be on good academic standing.
+3. A member with a GPA between 2.5 and 3 will be on cautionary academic standing.
+4. A member with a GPA below 2.5 will be on probationary academic standing.
 
-1. Each member of the Chapter shall be required to maintain a cumulative GPA of a 2.25 or higher, be enrolled for 12 credit hours or more – unless fewer credit hours are required for graduation – and remain in good standing with the Chapter and Rensselaer Polytechnic Institute.
-2. All officers of the Executive Committee must retain above a 2.50 GPA per semester. Any officer who falls below this threshold is subject to review for continued office.
-3. GPA will be calculated according to Rensselaer Polytechnic Institute’s standards, will be based on the biannual grade report given to the Archon by RPI, and will be shared only with the Archon and the Scholarship Chair unless an Executive Committee review is required.
+### Section 3: Scholarship Plans
 
-### Section 4: Academic standing
+1. Members on good academic standing or better may schedule a meeting with the Scholarship Coordinator if they feel they need an academic plan.
+2. Members on cautionary academic standing will meet with the Scholarship Coordinator to determine if an academic plan is necessary.
+3. Members with probationary academic standing will meet with the Scholarship Coordinator to create a scholarship plan.
+4. Scholarship plans may include
+    1. Mandated study hours.
+    2. Mandated tutoring.
+    3. Social prohibition.
+5. To better enforce scholarship plans the Scholarship Coordinator will have the right to
+    1. Retroactively excuse a brother from a required event.
+    2. Excuse the struggling brother from required responsibilities.
+    3. Mandate another brother serve as a tutor for the struggling brother.
+    4. Prohibit the struggling brother from attending social events.
+    5. Prohibit the struggling brother from consuming alcohol in the chapter house.
+    6. Send an obstinate brother before the judicial board.
 
-1. Each member of the Chapter will have their academic standing assigned by the Scholarship Chair according to the following guidelines:
-  1. A member with a GPA in excess of 3.50 will be considered to be on Exceptional academic standing
-  2. A member with a GPA between 2.50 - 3.49 will be considered to be on Good academic standing
-  3. A member with a GPA between 2.20 – 2.49 will be considered to be on Cautionary academic standing
-  4. A member with a GPA below a 2.20 will be considered to be on Probationary academic standing.
-2. A member on Cautionary academic standing will be required to submit a plan of study to the Scholarship Chair, or talk to their advisor or a trusted professor. They shall be required to go to ALAC and receive study tips. The member will be required to have the Chair, advisor, professor, or ALAC sign off that they have met. Such a member will remain in Cautionary standing until their cumulative GPA is raised above a 2.49.
-3. A member on Probationary academic standing will be required to meet with the Scholarship Chairman, academic advisor, or ALAC in order to determine an appropriate course of action, which shall be proven by having the Chair or advisor sign a statement*. Such member will remain on probation until their cumulative GPA is raised to above a 2.20 within two academic semesters, and will be subject to disciplinary action recommended by the Scholarship Chair to and determined by the Executive Committee. Further disciplinary action shall be determined by the Executive Committee if such member does not raise their cumulative GPA to at least 2.20 within two academic semesters of being placed on probation. The member will also perform at least 4 hours of logged study hours per week; the exact number of which to be recommended by the Scholarship Chair or advisor to and decided by the Executive Committee.
+### Section 4: GPA Requirements
 
-### Section 5: Disciplinary Action
+1. All members will be required to maintain a cumulative GPA above 2.0 and be enrolled in at least 12 credit hours, unless fewer than 12 credits are required to graduate.
+2. All Major offices must maintain a cumulative GPA of 3.0 or above. Any officer who falls below this threshold will be subject to a review by the executive board for continued office. 
+3. A major officer whose cumulative GPA has fallen below 2.5 is to be immediately removed from office and an interim officer is to be appointed for a period of no longer than 6 weeks.
+4. All minor officers and judicial board representatives must maintain a cumulative GPA above 2.75. Any officer who falls below this threshold will be subject to a review by the executive board for continued office.
+5. A minor officer or judicial board representative whose cumulative GPA falls below a 2.25 is to be immediately removed from office and an interim officer is to be appointed for a period of no longer than 6 weeks.
 
-1. A member placed on Academic Probation by the University may be subject to disciplinary action recommended by the Scholarship Chair or advisor to and determined by the Executive Committee, including:
-  1. Suspension of social privileges.Loss of social privileges will be defined as disallowed attendance at Psi Upsilon registered parties (except 3-3 and Founder’s), and disallowed alcohol consumption in the house.
-  2. Removal from Committee Chairmanship.
-  3. Vacating elected office and prohibition from nomination for elected office.
-2. If a member fails to complete mandated study hours for a week without a valid excuse submitted to the Scholarship Chair they will be subject to disciplinary action recommended by the Scholarship Chair or advisor to and determined by the Executive Committee. If a member consistently fails to meet their mandated study hours their case will be presented to the Executive Committee to determine appropriate disciplinary action.
+### Section 5: Rights of brothers
 
-### Section 6: Rights of Brothers
+1. All information regarding a member’s GPA Is to kept strictly confidential between the brother, the Scholarship Coordinator, and the Archon. Breaches of this confidentiality will be subject to a judicial board review.
+2. All brothers have the right to refuse the requests for information outlined of section 2 of this article.
+3. Any brother who believes the Scholarship Coordinator is abusing their powers or has created an unreasonable academic plan appeal to the archon. The Archon may override the Scholarship Coordinator or bring the decision before the judicial board.
 
-1. All meetings concerning a member’s grades must be kept private, and the information disclosed kept confidential. Any breach of a member’s trust will be subject to disciplinary action by the Executive Committee.
+## Article X: Attendance Policy
 
-### Section 7: Miscellaneous
+The chapter can only thrive if its members work to maintain its functions. This requires brothers be continually involved with the chapter. Without brother involvement it is impossible to adequately perform vital functions like host a successful rush or pass motions. Thus it is imperative that those who do not choose to be involved be held to some account.
 
-1. If the chapter has too few brothers to fill positions with the GPA requirement in place, the requirement shall be suspended until sufficient numbers are active.
-2. Pledges should be educated about this policy and what it entails prior to initiating.
+### Section 1: Required events
 
-## Article XIII: Epsilon Iota Member Involvement Policy 
-
-### Section 1: Statement
- 
-The chapter can only thrive if its members work to maintain its functions. This requires continuous brother involvement with the house. Without brother involvement it is impossible to adequately perform vital functions like host a successful rush or pass motions. Thus it is imperative that those who do not choose to be involved be held to some account.
- 
-### Section 2: Required Events
- 
 1. All brothers are expected to attend all house meetings.
-2. All brothers are expected to perform their weekly house jobs and attend cleaning parties.
+2. All brothers are expected to perform their house jobs and attend cleaning parties.
 3. All brothers with a position are expected to attend any associated committee meetings.
-4. All brothers are expected to attend some rush events, the exact number of which is to be determined at the start of a semester.
-5. All brothers are expected to attend all events and perform all duties they have agreed to in a clear and binding way. (dorm storming, philanthropy events, mandated study hours, being sober brother)
+4. All brothers are expected to attend some number of rush events, the exact number of which is to be determined before rush.
+5. All brothers are expected to attend all events and perform all duties they have agreed to in a clear and binding way. Physical signature, direct messages to the event organizer, verbal agreements which are explicitly stated to be binding and responses to polls which clearly state your agreement to attend an event are all clearly binding.
 6. All brothers are expected to attend all events and perform all reasonable duties determined to be mandatory by the Archon.
-7. If the rules outlined in this section conflict with those of section three, the Archon should determine if the event or duty in question is required. If no ruling is made the event should be considered required.
- 
-### Section 3: Optional Events
- 
-1. No brother is required to attend any informal event hosted by a brother as opposed to the house or some part of the house
-2. No brother is required to attend any brother building event
-3. No brother is required to go to any house social event or party
-4. No brother is required to go to any Rush or philanthropy event they have not agreed to attend.
- 
-### Section 4: Valid Excuses
- 
-1. A brother does not need to attend a required event if they are physically ill
-2. A brother does not need to attend a required event they have an important academic event such as a test.
-3. A brother does not need to attend a required event if they have a family emergency
-4. A brother does not need to attend a required event if they have some work that cannot be done at another time
-5. Other reasons approved of by the Archon prior to the event.
- 
-### Section 5: Allotted Absences
- 
-1. All brothers will start with 5 allotted absences at the start of the semester.
-2. If a brother fails to attend to a required event and does not have a valid excuse they will lose an allotted absence.
-3. If a brother is late to a required event, it will be at the digression of the event organizer if that brother loses an allotted absence.
-4. The number of remaining allotted absences will be tracked by the Secretary.
-5. It is the responsibility of the brother running the required event to report the use of an allotted absence to the secretary.
-6. A brother may at any time ask the Secretary the number of allotted absences they have remaining form the semester.
-7. When a brother is reduced to 3 allotted absences remaining the Vice President of Internal Affairs will be informed and have an non punitive discussion with the brother and determine ways to improve attendance. If the brother in question is the Vice President of Internal Affairs, then the Archon will be informed. A second discussion will be held when the brother is reduced to 1 allotted absence.
- 
-### Section 6: Enforcement
- 
-1. If a brother would lose an allotted absence but has none remaining, then the Secretary will inform the judicial board of the brother’s name and missed events.
+7. If an event could be categorized as required by this section and as optional by section 3 the Archon shall determine if the event is required. If no ruling is made the event should be considered required.
+
+### Section 2: Optional events
+
+1. No brother is required to attend any informal event hosted by a brother as opposed to the house or some part of the house.
+2. No brother is required to attend any brother building event.
+3. No brother is required to go to any house social event.
+4. No brother is required to go to any rush or philanthropic event they have not agreed in advance to attend.
+
+### Section 3: Valid excuses
+
+1. A brother does not need to attend a required event if they are physically ill.
+2. A brother does not need to attend a required event if they have an important academic event such as a test.
+3. A brother does not need to attend a required event if they have a family emergency.
+4. A brother does not need to attend a required event if they have some work that cannot be done at another time.
+5. A brother does not need to attend a required event if they present a valid reason to the Archon prior to the event.
+
+### Section 4: Allotted absences
+
+1. All brothers will begin each semester with five allotted absences.
+2. If a brother fails to attend a required event and does not have a valid excuse they will lose an allotted absence.
+3. If a brother is late to a required event, it will be at the discretion of the event organizer if that brother loses an allotted absence. 
+4. The secretary shall track each brother's remaining allotted absences.
+5. It is the responsibility of the brother running a required event to report an absence to the secretary.
+6. Any brother may at any time ask the secretary how many allotted absences they have remaining.
+7. When a brother is reduced to three allotted absences remaining the Vice President of Internal Affairs will be informed and have a non-punitive discussion with the brother to determine ways to improve attendance. If the brother in question is the Vice President of Internal Affairs, then the Archon will be informed. A second discussion will be held when the brother is reduced to one remaining allotted absence.
+
+### Section 5: Enforcement
+
+1. If a brother would lose an allotted absence but has none remaining the Secretary will provide the judicial board with the brother’s name and a list of missed events.
 2. The judicial board will then convene and invite the brother to explain their actions.
-3. If the brother is willing to work to improve their involvement, it is recommended that the judicial board be lenient and grant some small number of additional allotted absences.
-4. If the brother is unwilling or has returned for a second time it is recommended that the judicial board implement some moderate punitive action such as a prohibition on social events or attendance to mandatory study hours. Such effects should be in place until the brother has attended some number of consecutive events.
-5. In extreme cases it might be appropriate for the judicial board to restrict the voting rights of the offending brother or talk to the brother about going inactive.
+3. If the brother is willing to work to improve their involvement, it is recommended the judicial board be lenient and grand some small number of additional allotted absences.
+4. If the brother is unwilling or has returned for the second time that semester it is recommended that the judicial board implement some moderate punitive action such as social prohibition or attendance at study hours. Such effects should be put in place until the brother has attended some consecutive events.
+5. In extreme cases it might be appropriate for the judicial board to restrict the voting rights of the offending brother or have a serious discussion about inactivity with the brother.
 
 
 ## Appendix 1: Vote class totals
